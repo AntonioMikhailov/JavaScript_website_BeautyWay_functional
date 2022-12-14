@@ -1,5 +1,5 @@
 # JavaScript_website_BeautyWay_functional
-&nbsp;
+ 
 
 ##### Реализация данного сайта через Объектно ориентированный подход (classes ES6)
 [JavaScript_website_BeautyWay_OOP](https://github.com/AntonioMikhailov/JavaScript_website_BeautyWay_OOP 'JavaScript_website_BeautyWay_OOP')
