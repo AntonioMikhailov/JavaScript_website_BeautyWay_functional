@@ -18,7 +18,7 @@
 &nbsp;
 ## Используемые языки, технологии, пакеты:
 - JavaScript, HTML, LESS
-- GULP (ES6), WebPack
+- GULP (WebPack)
 
 
 &nbsp;
